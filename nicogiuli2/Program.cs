@@ -10,7 +10,8 @@ namespace nicogiuli2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ciao");
+            
+            Console.WriteLine("che bella giornata");
             Console.ReadLine();
         }
     }
